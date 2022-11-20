@@ -1,4 +1,5 @@
 # Image-Colorizer-App
+
 Convert your b/w images to colored images
 This project aims to create a model which will convert B/W Images to colored Images.
 
@@ -12,9 +13,8 @@ This project aims to create a model which will convert B/W Images to colored Ima
 ## Installation
 
 1. Clone this repository
-2. Change dir to Image-Colorizer
-3. Clone https://github.com/d4rk-lucif3r/DeOldify
-4. Install the requirements using `pip install -r requirements.txt`
+2. Install the requirements using `pip install -r requirements.txt`
+3. wget https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth -O ./models/ColorizeArtistic_gen.pth
 
 ## Usage
 
@@ -36,3 +36,7 @@ MIT License
 
 ![Medium Blog]()
 
+## Acknowledgements
+
+[Original DeOldify Repo](https://github.com/jantic/DeOldify)
+[My Fork of DeOldify](https://github.com/d4rk-lucif3r/DeOldify)
