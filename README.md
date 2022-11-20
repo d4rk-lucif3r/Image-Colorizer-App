@@ -14,7 +14,7 @@ This project aims to create a model which will convert B/W Images to colored Ima
 
 1. Clone this repository
 2. Install the requirements using `pip install -r requirements.txt`
-3. wget https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth -O ./models/ColorizeArtistic_gen.pth
+3. wget https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth -O ./DeOldify/models/ColorizeArtistic_gen.pth
 
 ## Usage
 
