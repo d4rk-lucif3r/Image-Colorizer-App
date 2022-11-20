@@ -39,4 +39,5 @@ MIT License
 ## Acknowledgements
 
 [Original DeOldify Repo](https://github.com/jantic/DeOldify)
+
 [My Fork of DeOldify](https://github.com/d4rk-lucif3r/DeOldify)
